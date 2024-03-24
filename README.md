@@ -67,5 +67,5 @@
 ## 书籍领取方式
 ![Snipaste_2024-03-24_09-31-12.png](https://cdn.nlark.com/yuque/0/2024/png/12925940/1711243913099-1c05e596-58f8-4776-a4ba-e904f02fb0de.png#averageHue=%23f3f2ef&clientId=u86120fb0-b969-4&from=ui&id=u8ad2dd16&originHeight=896&originWidth=2378&originalType=binary&ratio=2&rotation=0&showTitle=false&size=728423&status=done&style=none&taskId=u9b091fcd-b14f-419a-87c5-0d5cbbb6ca4&title=)
 文中提到的所有书籍，都可以直接领取：
-![扫码_搜索联合传播样式-标准色版.png](https://cdn.nlark.com/yuque/0/2024/png/12925940/1711243058926-c1521daf-532e-406c-a96e-fd241809cd8b.png#averageHue=%23e8e8e1&clientId=u86120fb0-b969-4&from=ui&height=614&id=u6331655c&originHeight=624&originWidth=2230&originalType=binary&ratio=2&rotation=0&showTitle=false&size=5566218&status=done&style=none&taskId=ue7774f89-fd11-4870-8301-b1cb071137f&title=&width=2194)
+![](https://camo.githubusercontent.com/e66e8a9a7189e13ffb087873cb2516941acfd607856636be1a9237bdc5f977ff/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032332f706e672f31323932353934302f313637353231363731333638322d61336361623666372d393363612d343639392d393939642d3232336261373763626339372e706e673f782d6f73732d70726f636573733d696d616765253246726573697a65253243775f313530302532436c696d69745f30)
 公众号「roseduan写字的地方」，后台回复「Go」
